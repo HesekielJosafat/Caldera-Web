@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
@@ -62,3 +63,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # PA2
 Project Akhir 2 Kelompok 6
  8669e166b85ebdf23dc7e014656bb19bfb9f1f66
+=======
+# Caldera-Web
+>>>>>>> 3aaa49f5d9416cb00105f64b0bba6a163f3e7781
